@@ -3,7 +3,7 @@ import os
 import argparse
 
 TASKS_FILE = "tasks.json"
-
+"comment text"
 
 def load_tasks():
     if not os.path.exists(TASKS_FILE):
